@@ -1,0 +1,3 @@
+Your Name=Abdullah\ 
+ Mother Name=Nishat
+  Father Name=Abid
